@@ -537,6 +537,7 @@ footer .social-links {
   nav#navigation .menu ul:nth-child(1) {
     display: flex;
     gap: 3.2rem;
+
   }
 
   nav#navigation .menu ul li a {
@@ -568,7 +569,7 @@ footer .social-links {
   }
 
   nav#navigation.scroll .menu ul li a {
-    color: var(--brand-light-2);
+    color: var(--brand-beige);
     opacity: 0.6;
   }
 
