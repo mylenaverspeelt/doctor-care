@@ -11,7 +11,8 @@
   --headline: #22262a;
   --paragraph: #484f56;
   --brand-beige: #fffaf0;
-  --brand-light: #FFF4E6;
+  --brand-light: #ffe1bb;
+  /* --brand-light: #FFF4E6; */
   --brand-light-2: #22262a;
   --brand-dark: #B73705;
   --bg-light: #fff;
@@ -370,7 +371,7 @@ body.menu-expanded button path {
   padding: 2.4rem;
   text-align: left;
 
-  background: white;
+  background: var(--brand-light);
 
   border: 1px solid var(--brand-light);
   border-radius: 0.6rem;
