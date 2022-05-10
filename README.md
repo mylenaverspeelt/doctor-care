@@ -6,7 +6,7 @@ Project developed on the Origin path of NLW 8th edition  by @RocketSeat
 
 To check the page just click on the link: https://mylenaverspeelt.github.io/doctor-care/
 
-![Doctor Care](./.github/preview.jpg)
+<a href="https://www.figma.com/community/file/1102912263666619803"><img src="./assets/github/DoctorCareFigma.png"></a>
 
 <p align="left">Original layout by <a href="https://jonasmilan.cc/">Jonas Milan</a>, UI designer @Rocketseat. Project available at <a href="https://www.figma.com/community/file/1102912263666619803">Figma</a>.</p>
 
