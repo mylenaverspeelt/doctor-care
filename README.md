@@ -11,17 +11,15 @@ To check the page just click on the link: https://mylenaverspeelt.github.io/doct
 <h3 align="left">Tech Stacks & Tools</h3>
     <div align="left">
     <img align="left" height="30" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
-    <span> · </span>
     <img align="left" height="30" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
-    <span> · </span>
     <a href="https://www.javascript.com/"><img align="center" height="30" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></a>
-    <span> · </span>
     <a href="https://scrollrevealjs.org/"><img align="center" height="30" src="https://scrollrevealjs.org/img/logomark.svg"></a>
     </div>
 <br />
 #NextLevel #NeverStopLearning #NewSkills #StepByStep
 <br />
 <div>
+   <br />
 <img align="left" src="https://avatars.githubusercontent.com/mylenaverspeelt?size=75">
 <p align="left">
 Developed by: Mylena Verspeelt 🦜<p>
