@@ -6,11 +6,9 @@ Project developed on the Origin path of NLW 8th edition  by @RocketSeat
 
 To check the page just click on the link: https://mylenaverspeelt.github.io/doctor-care/
 
-<a href="https://www.figma.com/community/file/1102912263666619803"><img src="./assets/github/DoctorCareFigma.png"></a>
+<p align="left">Original layout by <a href="https://jonasmilan.cc/">Jonas Milan</a>, UI designer @Rocketseat. Project available at <a href="https://www.figma.com/community/file/1102912263666619803">Figma</a>.</p>
 
-<p align="center">Original layout by <a href="https://jonasmilan.cc/">Jonas Milan</a>, UI designer @Rocketseat. Project available at <a href="https://www.figma.com/community/file/1102912263666619803">Figma</a>.</p>
-
-<h3 align="center">Tech Stacks & Tools</h3>
+<h3 align="left">Tech Stacks & Tools</h3>
     <div align="center">
     <img align="center" height="30" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
     <span> · </span>
