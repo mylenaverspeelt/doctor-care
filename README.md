@@ -23,8 +23,6 @@ To check the page just click on the link: https://mylenaverspeelt.github.io/doct
 <img align="left" src="https://avatars.githubusercontent.com/mylenaverspeelt?size=75">
 <p align="left">
 Developed by: Mylena Verspeelt 🦜<p>
-<p align="left"><a href="https://www.linkedin.com/in/mylenaverspeelt" target="_blank"><img align="left" src="https://img.shields.io/badge/get%20in%20touch!-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/mylenaverspeelt" target="_blank"></a></p>
 <div>
-
---- 
 
