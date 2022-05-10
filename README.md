@@ -9,10 +9,10 @@ To check the page just click on the link: https://mylenaverspeelt.github.io/doct
 <p align="left">Original layout by <a href="https://jonasmilan.cc/">Jonas Milan</a>, UI designer @Rocketseat. Project available at <a href="https://www.figma.com/community/file/1102912263666619803">Figma</a>.</p>
 
 <h3 align="left">Tech Stacks & Tools</h3>
-    <div align="center">
-    <img align="center" height="30" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+    <div align="left">
+    <img align="left" height="30" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
     <span> · </span>
-    <img align="center" height="30" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
+    <img align="left" height="30" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
     <span> · </span>
     <a href="https://www.javascript.com/"><img align="center" height="30" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></a>
     <span> · </span>
@@ -23,9 +23,9 @@ To check the page just click on the link: https://mylenaverspeelt.github.io/doct
 
 <div>
 <img align="left" src="https://avatars.githubusercontent.com/mylenaverspeelt?size=75">
-<p align="center">
+<p align="left">
 Developed by: Mylena Verspeelt 🦜<p>
-<p align="center"><a href="https://www.linkedin.com/in/mylenaverspeelt" target="_blank"><img align="center" src="https://img.shields.io/badge/get%20in%20touch!-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/mylenaverspeelt" target="_blank"><img align="left" src="https://img.shields.io/badge/get%20in%20touch!-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a></p>
 <div>
 
 --- 
