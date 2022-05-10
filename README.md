@@ -18,9 +18,9 @@ To check the page just click on the link: https://mylenaverspeelt.github.io/doct
     <span> · </span>
     <a href="https://scrollrevealjs.org/"><img align="center" height="30" src="https://scrollrevealjs.org/img/logomark.svg"></a>
     </div>
-
+<br />
 #NextLevel #NeverStopLearning #NewSkills #StepByStep
-
+<br />
 <div>
 <img align="left" src="https://avatars.githubusercontent.com/mylenaverspeelt?size=75">
 <p align="left">
